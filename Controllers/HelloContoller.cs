@@ -9,7 +9,7 @@ namespace SimpleApi.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Hello from Hemangi!");
+            return Ok("Hello Everyone!");
         }
     }
 }
